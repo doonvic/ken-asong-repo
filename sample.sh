@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "I am learning git merge conflict on AWS and its fantastic, I know how to resolve "
+echo "I am learning git merge conflict on AWS and its fantastic. I know how to resolve "
 echo "Too many commands to remember and learn"
-echo "i am learning jenkins"
+echo "i am learning Jenkins"
